@@ -1,2 +1,4 @@
-github.com/shura1014/common v0.0.0-20230818140334-a3db3110cd2f h1:VqSgRWxrzBlXDL61TW3BKMFOvkIgbem5DVku6ujE/HQ=
-github.com/shura1014/common v0.0.0-20230818140334-a3db3110cd2f/go.mod h1:SA5PUaX9P47a5bFtM4WZMrVaepwcPhdvmUcDIW7l6Qc=
+github.com/shura1014/common v1.0.3 h1:Ix+gfBDyDKs6xCs6g7MlmZpCKXXyj2Ax4JOzT6jByDs=
+github.com/shura1014/common v1.0.3/go.mod h1:iTzLDUVaRxncI4Pw28oGxqWQyMAEzNagnihRW6Yntfo=
+github.com/shura1014/logger v1.0.1 h1:V/GATbrkNrZwOisEmaDYa2+cYlabpKLsWEsaX3cLf0w=
+github.com/shura1014/logger v1.0.1/go.mod h1:91X/NusZ0dNv6m+db56u14ZUWNADSzwxA2WqKdGZyAk=
